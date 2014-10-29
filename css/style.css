@@ -646,7 +646,7 @@ body.show-menu #left-nav {
   background: #fff;
   overflow: hidden;
   padding-bottom: 72px;
-  padding-top: 90px;
+  padding-top: 70px;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
@@ -654,7 +654,7 @@ body.show-menu #left-nav {
 
 #resume h1 {
   color: #666;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   letter-spacing: 1px;
   border-color: #11abb0;
   width: 400px;
@@ -839,9 +839,10 @@ body.show-menu #left-nav {
 	float: left;
 	padding: 0;
 	text-align: left;
+  position: relative;
 }
 .bars .skills {
-  	margin-top: 36px;
+   margin-top: 36px;
    list-style: none;
 }
 .bars li {
