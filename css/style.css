@@ -876,19 +876,19 @@ body.show-menu #left-nav {
 
 .ruby {
   background: #1abc9c;
-  width: 92%;
+  width: 80%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 .rails {
   background: #e74c3c;
-  	width: 90%;
+  	width: 78%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .javascript {
   background: #34495e;
-  	width: 70%;
+  	width: 77%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
@@ -906,7 +906,7 @@ body.show-menu #left-nav {
 }
 .css {
   background: #9b59b6;
-  	width: 65%;
+  	width: 69%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
